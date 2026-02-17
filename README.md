@@ -1,9 +1,5 @@
 # Fake News Detection with Explainable AI
 
-A PhD-portfolio project: binary classification of news as **Real** or **Fake** using multiple models (classical ML, LSTM, BERT) and explainability (SHAP, LIME).
-
-**For supervisors:** see **[PhD_APPLICATION_BRIEF.md](PhD_APPLICATION_BRIEF.md)** for a one-page summary, research relevance, and possible PhD directions.
-
 ## Problem Statement
 
 Automatically detecting fake news is a real-world NLP problem with implications for trust and safety. This project compares several approaches—from TF-IDF + logistic regression to transformer-based classifiers—and adds interpretability so that predictions can be explained.
